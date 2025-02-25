@@ -1,4 +1,4 @@
-# CarroTec 🚗🔧
+# CarroTech 🚗🔧
 
 CarroTec é um sistema completo para gerenciamento de oficinas mecânicas, desenvolvido com **MERN Stack** e uma API de **Inteligência Artificial** para diagnósticos avançados.
 
